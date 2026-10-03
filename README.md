@@ -1,3 +1,8 @@
+<!-- Top banner -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MAHIN206/MAHIN206/main/banner.png" alt="MD Hasnat Monower Mahin - CSE Student at AIUB. Build, Learn, Grow." width="100%" />
+</div>
+
 <!-- Header banner -->
 <div align="center">
 
