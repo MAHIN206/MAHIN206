@@ -6,10 +6,10 @@
 <!-- Header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=MD%20Hasnat%20Monower%20Mahin&fontSize=40&fontColor=ffffff&fontAlignY=38&color=0:0B6B4F,100:E5453F&desc=CSE%20Student%20%7C%20Software%20%26%20AI&descSize=18&descAlignY=60&animation=fadeIn" alt="MD Hasnat Monower Mahin" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=MD%20Hasnat%20Monower%20Mahin&fontSize=40&fontColor=ffffff&fontAlignY=38&color=0:0B6B4F,100:E5453F&desc=CSE%20Student%20%7C%20Software%20and%20AI&descSize=18&descAlignY=60&animation=fadeIn" alt="MD Hasnat Monower Mahin" width="100%" />
 
 <a href="https://hasnat-mahin.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3FC79B&center=true&vCenter=true&width=640&height=50&lines=Software+Developer;Backend+Developer;AI+%26+ML+Enthusiast;Continuous+Learner" alt="Typing animation: Software Developer, Backend Developer, AI and ML Enthusiast, Continuous Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3FC79B&center=true&vCenter=true&width=640&height=50&lines=Software+Developer;Backend+Developer;AI+and+ML+Enthusiast;Continuous+Learner" alt="Typing animation: Software Developer, Backend Developer, AI and ML Enthusiast, Continuous Learner" />
 </a>
 
 <p>
